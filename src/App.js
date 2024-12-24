@@ -4,7 +4,7 @@ function App() {
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
-          hello
+          Lesson 28 | Git initialize
         </p>
         <a
           className="App-link"
